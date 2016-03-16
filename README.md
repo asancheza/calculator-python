@@ -8,13 +8,13 @@ Basic calculator in Python without using eval and yacc.
 python calculator.py
 ```
 
-## Alternative using lambda
+## Lambda
 
 ```
 python lambda.py
 ```
 
-## Other possible solution
+## Dictionaries
 
 Using dictionaries you can have the following structure:
 
