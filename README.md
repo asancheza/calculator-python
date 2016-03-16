@@ -7,3 +7,9 @@ Basic calculator in Python without using eval and yacc.
 ```
 python calculator.py
 ```
+
+# Alternative using lambda
+
+```
+python lambda.py
+```
