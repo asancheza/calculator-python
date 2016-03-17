@@ -2,17 +2,26 @@
 
 Basic calculator in Python without using eval and yacc.
 
-# Testing
+## Testing
 
 ```
 python calculator.py
 ```
 
-# Alternative using lambda
+## Alternative using lambda
 
 ```
 python lambda.py
 ```
+
+## Grammar
+
+```
+virtualenv env
+source env/bin/activate
+pip install plyplus
+python grammar.py
+``` 
 
 # Other possible solution
 
