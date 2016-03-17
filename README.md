@@ -21,7 +21,6 @@ python grammar.py
 ``` 
 
 ## Dictionaries
->>>>>>> 1e7ef3d08518a99b21c589e9d57bb48d45d0ca6e
 
 Using dictionaries you can have the following structure:
 
